@@ -6,17 +6,15 @@
 # 📚 深圳大学计软研究生课程参考资料
 
 <div align="center">
-  <a href="https://github.com/Xstly1014/-SZU_CS_Grad_Courses-
-/stargazers">
+  <a href="https://github.com/Xstly1014/-SZU_CS_Grad_Courses-/stargazers">
     <img src="https://img.shields.io/github/stars/Xstly1014/-SZU_CS_Grad_Courses-?color=blue&logo=github" alt="Stars">
   </a>
-  <a href="https://github.com/Xstly1014/-SZU_CS_Grad_Courses-/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Xstly1014/-SZU_CS_Grad_Courses-?color=orange" alt="License">
+  <a href="https://github.com/Xstly1014/-SZU_CS_Grad_Courses-/network/members">
+    <img src="https://img.shields.io/github/forks/Xstly1014/-SZU_CS_Grad_Courses-?color=green&logo=github" alt="Forks">
   </a>
 </div>
 
-## ⚠️ 重要声明
+## ⚠️ 声明
 ```diff
-- 本仓库资料仅供学习参考！
-- 严禁直接复制、抄袭作业或实验代码！
-- 违反学术诚信可能导致课程不及格或纪律处分！
+- 资料仅供学习参考
+- 请勿直接复制、抄袭作业或实验代码
