@@ -6,11 +6,12 @@
 # 📚 深圳大学计软研究生课程参考资料
 
 <div align="center">
-  <a href="https://github.com/你的用户名/仓库名/stargazers">
-    <img src="https://img.shields.io/github/stars/你的用户名/仓库名?color=blue&logo=github" alt="Stars">
+  <a href="https://github.com/Xstly1014/-SZU_CS_Grad_Courses-
+/stargazers">
+    <img src="https://img.shields.io/github/stars/Xstly1014/-SZU_CS_Grad_Courses-?color=blue&logo=github" alt="Stars">
   </a>
-  <a href="https://github.com/你的用户名/仓库名/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/你的用户名/仓库名?color=orange" alt="License">
+  <a href="https://github.com/Xstly1014/-SZU_CS_Grad_Courses-/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Xstly1014/-SZU_CS_Grad_Courses-?color=orange" alt="License">
   </a>
 </div>
 
